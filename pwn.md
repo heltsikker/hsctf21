@@ -104,7 +104,7 @@ How to actually make your exploit!
   * p32(binary.symbols["backdoor"]) # packs the address of the function *backdoor* as a 32bit value, ready to be sent to a program
 
 ## Live demo
-[backdoor binary to solve](backdoor)
+[backdoor binary to solve](res/backdoor)
 ### Methodology
 The only commands *needed* to solve the challenge, normally you try a couple different things in between as trial and error but this is a *perfect solution*. checksec in gdb was not ran during the demo, but it's recommended to see which safety measures are enabled/disabled! The meaning of the safety measures are described in the gdb cheatsheet above.
 ``` 
