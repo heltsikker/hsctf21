@@ -11,3 +11,7 @@
 **Misc**
 
 * [The Bops and the Beeps](misc/the-bops-and-the-beeps/SOLUTION.md)
+
+**Web**
+
+* [A8](web/a8/solve.py)
