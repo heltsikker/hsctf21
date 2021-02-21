@@ -1,5 +1,7 @@
 # Circuit solution
 
+Download: [circuit.ps](circuit.ps)
+
 This is a tricky challenge that requires a bit of manual analysis and tracing. Basic knowledge of digital circuits is also nice to have.
 
 We can see we have the following inputs:
