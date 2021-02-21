@@ -1,5 +1,7 @@
-# HSCTF 2021 Tutorials
+# HSCTF 2021
 
-* [Web](web-tutorial.md)
-* [Rev](rev.pdf)
-* [Pwn](pwn.md)
+### Tutorials
+
+* [Web](tutorial/web-tutorial.md)
+* [Rev](tutorial/rev.pdf)
+* [Pwn](tutorial/pwn.md)
