@@ -13,7 +13,7 @@ We can see we have the following inputs:
 
 And one output: `unlock`
 
-The goal is to figure out which 6 PIN needs to be entered in order for the `unlock` output to be set high. 
+The goal is to figure out which 6 digit PIN needs to be entered in order for the `unlock` output to be set high. 
 
 It's probably smart to start at the end by the unlock output, and work backwards. I'll import the schematic into GIMP at a high resolution, so we can add some notes to the schematic while solving it. I'll also be labeling d-flip-flops with D1, D2, etc., and refer to keypad inputs with K1, K2, ...
 

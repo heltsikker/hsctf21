@@ -10,6 +10,7 @@
 
 **Misc**
 
+* [Circuit](misc/circuit/SOLUTION.md)
 * [The Bops and the Beeps](misc/the-bops-and-the-beeps/SOLUTION.md)
 * [Bash Playground](misc/bash-playground/SOLUTION.md)
 * [Bash Playground 2](misc/bash-playground-2/SOLUTION.md)
