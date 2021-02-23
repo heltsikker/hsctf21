@@ -27,9 +27,12 @@
 * [Format String 100](pwn/format-string100/solve.py)
 * [Shellcodeme](pwn/shellcodeme/solve.py)
 * [Forktastic](pwn/forktastic/solve.py)
-
+* [seccomp2abyss](pwn/seccomp2abyss/README.md)
+* [seccomp2abyss-revenge](pwn/seccomp2abyss-revenge/README.md)
 **Reversing**
 * [Angr Management](reversing/angr-management/solve.py)
+* [Crazybomb](reversing/crazybomb/README.md)
+* [Agent69](reversing/agent69/README.md)
 
 **Crypto**
 * [NSA](crypto/nsa/solve.py)
