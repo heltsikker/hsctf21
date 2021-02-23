@@ -7,8 +7,8 @@ _start:
 printme:
     pop rdi
     xor rax, rax
-	inc al
-	inc al
+    inc al
+    inc al
     xor rsi, rsi
     syscall
 
@@ -25,10 +25,7 @@ printme:
     xor rax, rax
     inc al
     syscall
-
-    xor rax,rax
-    mov al, 0x3c
-    syscall
+    
 handle:
     call printme
     db "flag.txt"
